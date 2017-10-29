@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.15",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "AllrightRig",
+			"Enabled": false
+		}
+	],
+	"TargetPlatforms": [
+		"IOS",
+		"Android",
+		"HTML5",
+		"LinuxNoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"AllDesktop"
+	]
+}
